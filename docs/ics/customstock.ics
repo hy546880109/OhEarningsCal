@@ -6,25 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:HuAcu_qgHQoxV8Qc1TkLH
-SUMMARY:台积电 发布财报
-DTSTAMP:20241116T164401Z
-DTSTART;VALUE=DATE:20241017
-DESCRIPTION:财务季度：Sep/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.74，当前市值: $1\
-	,067\,571\,498\,516。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
-	富途查看：https://www.futunn.com/hk/stock/TSM-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:qhzGfYxFBIuLKcWKJFNI4
+UID:Nh4nr-70bZDOjUv77eLpe
 SUMMARY:Coinbase 发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241030
 DESCRIPTION:财务季度：Sep/2024。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $0.41，当前
 	市值: $54\,580\,615\,316。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
@@ -38,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:jr-Tc00sizYhJ__Ux1jp-
+UID:k1NKeU-JWILu4Phgojy14
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241031
 DESCRIPTION:财务季度：Sep/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $26\,188\
 	,225\,226。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -54,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:IH6rHcgOMI-qi-ZcfKL_d
+UID:ACHv5H60wIKPWRvyI5G2U
 SUMMARY:Super Micro Computer 盘后发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241105
 DESCRIPTION:财务季度：Sep/2024。\n代码：SMCI，公司：Super Micro Computer，行业: 计算机硬件。\n预计每
 	股收益: $0.51，当前市值: $16\,220\,157\,979。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
@@ -70,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9hBGeSS-bQ_gKYrGvBt-_
+UID:J2MdVBYYQ3IRzkl97PXDB
 SUMMARY:Novo Nordisk 发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241106
 DESCRIPTION:财务季度：Sep/2024。\n代码：NVO，公司：Novo Nordisk，行业: 制药。\n预计每股收益: $0.91，当
 	前市值: $470\,140\,478\,310。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NV
@@ -86,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ve_9CRE5ftETsTIdfPvA3
+UID:rIIH2HTOEkPS9Ky3fRJS0
 SUMMARY:Arm 发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241106
 DESCRIPTION:财务季度：Sep/2024。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.08，当前市值: $15
 	0\,515\,016\,305。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -102,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:da_x8CLGD0jDOF5eTlscd
+UID:BieHOdRaqkVzS6nW6TQ5t
 SUMMARY:Square 发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241107
 DESCRIPTION:财务季度：Sep/2024。\n代码：SQ，公司：Square，行业: 金融科技。\n预计每股收益: $0.43，当前市值: 
 	$46\,339\,599\,150。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SQ \n在富途
@@ -118,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LOZukdkdMe-jWrYJWOUyj
+UID:vF9R7KT7sP5_rDsHMXyMt
 SUMMARY:Cloudflare 发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241107
 DESCRIPTION:财务季度：Sep/2024。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: ($0.03)，
 	当前市值: $32\,687\,283\,534。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NE
@@ -134,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hjlznZn-j6eUubrV1oDoo
+UID:p9bog67a9FTsxRwRzNcD3
 SUMMARY:Unity 发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241107
 DESCRIPTION:财务季度：Sep/2024。\n代码：U，公司：Unity，行业: 软件。\n预计每股收益: ($0.39)，当前市值: $8
 	\,814\,211\,738。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=U \n在富途查看：h
@@ -150,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9UZ3bbUhO-hNFa7-yILlp
+UID:cWi2wfsKm9PNgaJfv_etV
 SUMMARY:索尼 发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241108
 DESCRIPTION:财务季度：Sep/2024。\n代码：SONY，公司：索尼，行业: 消费电子。\n预计每股收益: $0.27，当前市值: $1
 	10\,807\,674\,144。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SONY \n在富
@@ -166,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CJoaQiVSYywmahX8tqz1u
+UID:csywc7bLoLo8VtE64nu0_
 SUMMARY:Shopify 发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241112
 DESCRIPTION:财务季度：Sep/2024。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.18，当前市
 	值: $140\,548\,898\,015。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
@@ -182,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2MGjn3fqSjiWDBboYZrux
+UID:wL3x6mpxyPI-suheM3Hm5
 SUMMARY:京东 发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241114
 DESCRIPTION:财务季度：Sep/2024。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $1.04，当前市值: $52\
 	,430\,138\,101。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
@@ -198,9 +182,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:awB8cRLLvL00epgM2VutL
+UID:EIQ1C09_ij8uVpjLPzwNm
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241115
 DESCRIPTION:财务季度：Sep/2024。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $2.01，当前市值: 
 	$220\,439\,190\,004。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -214,9 +198,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:IeTqQJYl-C06F_hnlPFd_
+UID:jg8NGaYMY1hfwkAVrSans
 SUMMARY:BOSS 直聘 发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241119
 DESCRIPTION:财务季度：Sep/2024。\n代码：BZ，公司：BOSS 直聘，行业: 人力资源。\n预计每股收益: $0.13，当前市值:
 	 $5\,934\,605\,193。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BZ \n在富途
@@ -230,9 +214,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:543lpNr7TAb8mkGNmRRwy
+UID:YEbWDUq8ZfE0bkD_5z7B0
 SUMMARY:小鹏汽车 盘前发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241119
 DESCRIPTION:财务季度：Sep/2024。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $11\,90
 	6\,535\,160。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
@@ -246,9 +230,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RAGOkcWQcrHnSGiwxW61V
+UID:UDvvN3nMDyvbVgAZVa8aj
 SUMMARY:蔚来 盘前发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241120
 DESCRIPTION:财务季度：Sep/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.32)，当前市值: $9\
 	,246\,158\,785。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
@@ -262,9 +246,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RvFi3_lwvMHpIqCZo4lrB
+UID:uCxz-l_VVlYoJSIto7hqQ
 SUMMARY:拼多多 盘前发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241121
 DESCRIPTION:财务季度：Sep/2024。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.62，当前市值: $1
 	54\,551\,790\,163。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -278,9 +262,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eBM6yajy0cLa4QDTmvJlN
+UID:-4cNx1l4pjqdp2-NuGe-x
 SUMMARY:百度 盘前发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241121
 DESCRIPTION:财务季度：Sep/2024。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.88，当前市值: $29
 	\,473\,795\,390。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
@@ -294,9 +278,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sIqWXRU-8U0J5hlNebuN-
+UID:YDIsKB7onhf1OHpwCywMP
 SUMMARY:C3.ai 盘后发布财报
-DTSTAMP:20241116T164401Z
+DTSTAMP:20241117T044129Z
 DTSTART;VALUE=DATE:20241209
 DESCRIPTION:财务季度：Oct/2024。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.59)，当前市值: $
 	3\,351\,123\,628。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看

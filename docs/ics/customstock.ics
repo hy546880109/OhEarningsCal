@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:nAX7ZE1JAEFGfB6qE9bwn
+UID:Gp1-6fPgCoubmoNu7TqgI
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20241222T043933Z
+DTSTAMP:20241222T163941Z
 DTSTART;VALUE=DATE:20241209
 DESCRIPTION:财务季度：Oct/2024。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.59)，当前市值: $
 	5\,147\,366\,543。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kjAhXJvxH_GeuE_TcQaRd
+UID:A8odEidzm8bAmCRdQ_R7E
 SUMMARY:BOSS 直聘 发布财报
-DTSTAMP:20241222T043933Z
+DTSTAMP:20241222T163941Z
 DTSTART;VALUE=DATE:20241211
 DESCRIPTION:财务季度：Sep/2024。\n代码：BZ，公司：BOSS 直聘，行业: 人力资源。\n预计每股收益: $0.13，当前市值:
 	 $6\,207\,359\,472。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BZ \n在富途
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xYZtazG92ENatilCwMMCy
+UID:KBhGanpPhARJcNsG_4AcH
 SUMMARY:台积电 发布财报
-DTSTAMP:20241222T043933Z
+DTSTAMP:20241222T163941Z
 DTSTART;VALUE=DATE:20250116
 DESCRIPTION:财务季度：Dec/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.16，当前市值: $1\
 	,009\,483\,659\,498。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在

@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:K2TeZee-XzBrygsDXaMzE
+UID:Q07QCe_B36QtcsuwIrK_7
 SUMMARY:赛富时 发布财报
-DTSTAMP:20241226T164206Z
+DTSTAMP:20241227T044010Z
 DTSTART;VALUE=DATE:20241203
 DESCRIPTION:财务季度：Oct/2024。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $1.78，当前市值: $3
 	16\,445\,560\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1OYwxniAYnRhLpn-CXDXF
+UID:bkEOj1CUZvNbCUNjyzp0Y
 SUMMARY:耐克 发布财报
-DTSTAMP:20241226T164206Z
+DTSTAMP:20241227T044010Z
 DTSTART;VALUE=DATE:20241219
 DESCRIPTION:财务季度：Nov/2024。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.63，当前市值: $114\
 	,763\,021\,245。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xpzLwmk2ngNWonOQkMdMp
+UID:f6ShHn99sJ4AsJi9TmujA
 SUMMARY:沃尔格林博姿联合公司 盘前发布财报
-DTSTAMP:20241226T164206Z
+DTSTAMP:20241227T044010Z
 DTSTART;VALUE=DATE:20250109
 DESCRIPTION:财务季度：Nov/2024。\n代码：WBA，公司：沃尔格林博姿联合公司，行业: 零售。\n预计每股收益: $0.37，当前市
 	值: $7\,945\,831\,424。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WBA \n
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CwEz_3kpo48vq2btyPvP9
+UID:SVwow0BtdOtuU-5ZECda2
 SUMMARY:联合健康保险 发布财报
-DTSTAMP:20241226T164206Z
+DTSTAMP:20241227T044010Z
 DTSTART;VALUE=DATE:20250110
 DESCRIPTION:财务季度：Dec/2024。\n代码：UNH，公司：联合健康保险，行业: 保健管理。\n预计每股收益: $6.74，当前市值:
-	 $465\,755\,901\,437。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
+	 $465\,976\,769\,677。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
 	在富途查看：https://www.futunn.com/hk/stock/UNH-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3SIM-mInLbpGvOVGfbxRK
+UID:3YSCEezOpNFHBrm8k-VSv
 SUMMARY:摩根大通 盘前发布财报
-DTSTAMP:20241226T164206Z
+DTSTAMP:20241227T044010Z
 DTSTART;VALUE=DATE:20250115
 DESCRIPTION:财务季度：Dec/2024。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $3.86，当前市值: $68
 	2\,185\,137\,654。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cVy8h05hc7FhGKyI1jZoL
+UID:rJw2CP9qzsg_xqVmNxyRV
 SUMMARY:高盛 发布财报
-DTSTAMP:20241226T164206Z
+DTSTAMP:20241227T044010Z
 DTSTART;VALUE=DATE:20250121
 DESCRIPTION:财务季度：Dec/2024。\n代码：GS，公司：高盛，行业: 银行、金融服务。\n预计每股收益: $7.94，当前市值: $
 	182\,943\,504\,580。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富途
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-kQCk_9cGyqpi1LhpLf-w
+UID:dmi__kNxOAWqSilEvvyrx
 SUMMARY:宝洁 盘前发布财报
-DTSTAMP:20241226T164206Z
+DTSTAMP:20241227T044010Z
 DTSTART;VALUE=DATE:20250122
 DESCRIPTION:财务季度：Dec/2024。\n代码：PG，公司：宝洁，行业: 消费品。\n预计每股收益: $1.88，当前市值: $397\
 	,860\,749\,697。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PG \n在富途查看：h
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MS14snTSwRBYCpbZAjDoC
+UID:q9skhJGEbThWzY_qeBiA-
 SUMMARY:强生 盘前发布财报
-DTSTAMP:20241226T164206Z
+DTSTAMP:20241227T044010Z
 DTSTART;VALUE=DATE:20250122
 DESCRIPTION:财务季度：Dec/2024。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2，当前市值: $351\,15
 	1\,810\,466。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：htt
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Z5actMX3fe_2HSGhGhys9
+UID:xwUcfVDxv5pTfzmxorbW-
 SUMMARY:旅行者保险 盘前发布财报
-DTSTAMP:20241226T164206Z
+DTSTAMP:20241227T044010Z
 DTSTART;VALUE=DATE:20250122
 DESCRIPTION:财务季度：Dec/2024。\n代码：TRV，公司：旅行者保险，行业: 保险。\n预计每股收益: $6.39，当前市值: $5
 	5\,138\,365\,733。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TRV \n在富途查
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GUp9i8VwA1GBM64jrRMit
+UID:eeDq9EKpE5bL9EDBZyNXC
 SUMMARY:维萨 发布财报
-DTSTAMP:20241226T164206Z
+DTSTAMP:20241227T044010Z
 DTSTART;VALUE=DATE:20250123
 DESCRIPTION:财务季度：Dec/2024。\n代码：V，公司：维萨，行业: 零售银行。\n预计每股收益: $2.66，当前市值: $597\
 	,330\,909\,472。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=V \n在富途查看：ht
@@ -166,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cx8VO-MpVoWlIRrvfRQXd
+UID:wG66z3W0hHryq7Wjs22Ya
 SUMMARY:英特尔 发布财报
-DTSTAMP:20241226T164206Z
+DTSTAMP:20241227T044010Z
 DTSTART;VALUE=DATE:20250123
 DESCRIPTION:财务季度：Dec/2024。\n代码：INTC，公司：英特尔，行业: 半导体。\n预计每股收益: ($0.04)，当前市值: 
 	$87\,985\,200\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \n在
@@ -182,9 +182,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:KPORJONoDbeIOqE4jICvJ
+UID:WN7pD_fjohthB0rV9tnEy
 SUMMARY:美国运通 盘前发布财报
-DTSTAMP:20241226T164206Z
+DTSTAMP:20241227T044010Z
 DTSTART;VALUE=DATE:20250124
 DESCRIPTION:财务季度：Dec/2024。\n代码：AXP，公司：美国运通，行业: 金融服务。\n预计每股收益: $3.02，当前市值: $
 	213\,770\,846\,319。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AXP \n在富

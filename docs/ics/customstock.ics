@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2dh1QGDG9rjPTElAp4F6O
+UID:pIgO7LRL0lZTj_tJDwW7E
 SUMMARY:蔚来 发布财报
-DTSTAMP:20260930T205659Z
+DTSTAMP:20261001T110653Z
 DTSTART;VALUE=DATE:20260901
 DESCRIPTION:财务季度：Jun/2026。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.07)，当前市值: $10
 	\,173\,007\,900。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5vQB5jAlu2TIDj8lf21_T
+UID:MrG__d3GgjjE6neIR1o4y
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20260930T205659Z
+DTSTAMP:20261001T110653Z
 DTSTART;VALUE=DATE:20260902
 DESCRIPTION:财务季度：Jul/2026。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.64)，当前市值: $
 	1\,684\,117\,250。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mCy-xlbs_wKQCdNNac07w
+UID:hY0J8_1AFdSr096SOeV4x
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20260930T205659Z
+DTSTAMP:20261001T110653Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
 	,369\,921\,480\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:VBxvFnvpJySsYMamD6uYw
+UID:_5MuqOGP8k3xfiKvoZDXm
 SUMMARY:Cloudflare 发布财报
-DTSTAMP:20260930T205659Z
+DTSTAMP:20261001T110653Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: $0.02，当前
 	市值: $125\,432\,644\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NET
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:EVhhxK00Z3c11nGkLp30t
+UID:zIaubvwW6gYYA0ZY3-SD6
 SUMMARY:Coinbase 发布财报
-DTSTAMP:20260930T205659Z
+DTSTAMP:20261001T110653Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: ($0.22)，
 	当前市值: $50\,134\,290\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CO

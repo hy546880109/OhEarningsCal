@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:XQvb69Qodof7FxWNwvd-c
+UID:Ym8O2YcG7Kjimqx-sOgl2
 SUMMARY:台积电 发布财报
-DTSTAMP:20261018T090023Z
+DTSTAMP:20261018T184719Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
 	,190\,001\,700\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:D6H3WcURgFJ2-WvzvUmsZ
+UID:jaEsfNIkM-Z7CwwUdX3ab
 SUMMARY:Coinbase 盘后发布财报
-DTSTAMP:20261018T090023Z
+DTSTAMP:20261018T184719Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: ($0.19)，
 	当前市值: $48\,495\,866\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CO
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:e0GnKxxe2wKNrbLMkGxYU
+UID:J2awZ4yq3dXY6pHmXLsHv
 SUMMARY:Shopify 盘前发布财报
-DTSTAMP:20261018T090023Z
+DTSTAMP:20261018T184719Z
 DTSTART;VALUE=DATE:20261103
 DESCRIPTION:财务季度：Sep/2026。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.33，当前市
 	值: $230\,238\,568\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tp8VDYQwXgT76neiz0hR5
+UID:-LOy7spS3T6fBpty6v1ZZ
 SUMMARY:Super Micro Computer 发布财报
-DTSTAMP:20261018T090023Z
+DTSTAMP:20261018T184719Z
 DTSTART;VALUE=DATE:20261103
 DESCRIPTION:财务季度：Sep/2026。\n代码：SMCI，公司：Super Micro Computer，行业: 计算机硬件。\n预计每
 	股收益: $0.94，当前市值: $23\,052\,914\,700。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LDX3HlHuBSymh5VVioKP9
+UID:fQGpz4AIpQiAuE56VYlbt
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20261018T090023Z
+DTSTAMP:20261018T184719Z
 DTSTART;VALUE=DATE:20261104
 DESCRIPTION:财务季度：Sep/2026。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.22，当前市值: $26
 	0\,470\,079\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8qB0yABDjAUud92c1B_TG
+UID:lgwFv_Gphlbr5K8iib83a
 SUMMARY:Novo Nordisk 发布财报
-DTSTAMP:20261018T090023Z
+DTSTAMP:20261018T184719Z
 DTSTART;VALUE=DATE:20261104
 DESCRIPTION:财务季度：Sep/2026。\n代码：NVO，公司：Novo Nordisk，行业: 制药。\n预计每股收益: $0.81，当
 	前市值: $173\,663\,437\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NV
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:31eCoioLT3hpJf4R20N0o
+UID:UpCqThkox6VPsAtfVlbBc
 SUMMARY:索尼 盘前发布财报
-DTSTAMP:20261018T090023Z
+DTSTAMP:20261018T184719Z
 DTSTART;VALUE=DATE:20261105
 DESCRIPTION:财务季度：Sep/2026。\n代码：SONY，公司：索尼，行业: 消费电子。\n预计每股收益: $0.38，当前市值: $1
 	45\,573\,544\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SONY \n在富
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:O3v2hiFT8y67rACcLxqVg
+UID:3D3uEEsCv6AxlRiLy2HSq
 SUMMARY:Cloudflare 盘后发布财报
-DTSTAMP:20261018T090023Z
+DTSTAMP:20261018T184719Z
 DTSTART;VALUE=DATE:20261105
 DESCRIPTION:财务季度：Sep/2026。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: $0.02，当前
 	市值: $112\,635\,134\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NET
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Kruew7L-ZwMmn3ijBF_2T
+UID:Qa0EagXlvRXC1Fhwg5r1p
 SUMMARY:Unity 盘前发布财报
-DTSTAMP:20261018T090023Z
+DTSTAMP:20261018T184719Z
 DTSTART;VALUE=DATE:20261105
 DESCRIPTION:财务季度：Sep/2026。\n代码：U，公司：Unity，行业: 软件。\n预计每股收益: $0.18，当前市值: $19\
 	,073\,454\,100。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=U \n在富途查看：ht
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7v1EBwpk0EbkPyrLtgGou
+UID:5aQ6d0HCiLaqATHTatOp3
 SUMMARY:京东 发布财报
-DTSTAMP:20261018T090023Z
+DTSTAMP:20261018T184719Z
 DTSTART;VALUE=DATE:20261112
 DESCRIPTION:财务季度：Sep/2026。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.95，当前市值: $36\
 	,812\,161\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
@@ -166,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lyZ-NEQcU1YOHBoXsgwaS
+UID:zcXwTJGjAphz0xvis7TgJ
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20261018T090023Z
+DTSTAMP:20261018T184719Z
 DTSTART;VALUE=DATE:20261116
 DESCRIPTION:财务季度：Sep/2026。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $9\,226
 	\,215\,400。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
